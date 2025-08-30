@@ -1,0 +1,47 @@
+name: Vidit
+occupation: student
+response: great
+
+name: okabe rintaro
+occupation: scientist
+response: i am mad scientist:soo cool
+
+name: Alice Wonderland
+occupation: dreamer
+response: fell into rabbit hole, 10/10 experience
+
+name: 404 Not Found
+occupation: error handler
+response: response could not be located
+
+name: Table
+occupation: furniture
+response: stable and supportive, unlike my friends
+
+name: HAL 9000
+occupation: AI
+response: I'm sorry Dave, I can't do that survey
+
+name: John Doe
+occupation: test subject
+response: undefined but cooperative
+
+name: The Number 7
+occupation: lucky charm
+response: always odd, never even
+
+name: Saitama
+occupation: hero for fun
+response: ok.
+
+name: Caffeine Molecule
+occupation: stimulant
+response: keeps everyone awake for surveys
+
+name: Null
+occupation: none
+response: null
+
+name: Time Traveler
+occupation: historian
+response: already filled this survey in 3025
